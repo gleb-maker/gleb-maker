@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 📫 How to reach me:
 
-- GitHub: [Your GitHub Profile](https://github.com/gleb-maker)
+- GitHub: (https://github.com/gleb-maker)
 - Email: glebilin2512@gmail.com
 
 ## 📚 Check out some of my favorite repositories:
